@@ -41,10 +41,10 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Daniilcom&theme=transparent&background=FFFFFF&stroke=52C94F&ring=52C94F&currStreakNum=3941FF&currStreakLabel=3941FF" alt="Github stats" />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=daniilcom&theme=transparent&background=FFFFFF&stroke=52C94F&ring=52C94F&currStreakNum=3941FF&currStreakLabel=3941FF" alt="Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daniilcom=anuraghazra&layout=pie" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniilcom&layout=compact" />
     </td>
   </tr>
 </table>
