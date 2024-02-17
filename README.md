@@ -1,4 +1,4 @@
-### Hi all, I'm Daniil 👋
+## Hi all, I'm Daniil 👋
 
 ### I'm a Frontend-developer
 
