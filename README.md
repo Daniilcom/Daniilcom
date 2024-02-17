@@ -38,7 +38,7 @@
 
 ### ⚙️ GitHub Analytics
 
-<table style="border: none">
+<table>
   <tr>
     <td>
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=daniilcom&theme=transparent&background=FFFFFF&stroke=52C94F&ring=52C94F&currStreakNum=3941FF&currStreakLabel=3941FF" alt="Github stats" />
