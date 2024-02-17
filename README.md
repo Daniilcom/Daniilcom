@@ -1,16 +1,16 @@
 ### Hi all, I'm Daniil 👋
 
-## I'm a Frontend-developer
+### I'm a Frontend-developer
 
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 
 <a src="https://t.me/daniilkaam">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" />
 </a>
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 
-## Frontend:
+### Frontend:
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Иконка 'React'">&nbsp;
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Иконка 'Redux'">&nbsp;
@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Иконка 'MongoDB'">&nbsp;
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Иконка 'NGINX'">&nbsp;
 
-### 🛠 Tools:
+## 🛠 Tools:
 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Иконка 'Git'">&nbsp;
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Иконка 'Webpack'">&nbsp;
