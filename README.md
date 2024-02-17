@@ -4,7 +4,9 @@
 
 ### 🤝 Connect with me:
 
-<img alt="Telegram" src="https://t.me/daniilkaam" />
+<a src="https://t.me/daniilkaam">
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" />
+</a>
 
 ### 💻 Tech Stack:
 
@@ -39,10 +41,10 @@
 <table>
   <tr>
     <td>
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Daniilcom&theme=transparent&background=FFFFFF&stroke=52C94F&ring=52C94F&currStreakNum=3941FF&currStreakLabel=3941FF)](https://git.io/streak-stats)
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Daniilcom&theme=transparent&background=FFFFFF&stroke=52C94F&ring=52C94F&currStreakNum=3941FF&currStreakLabel=3941FF" alt="Github stats" />
     </td>
     <td>
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Daniilcom=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daniilcom=anuraghazra&layout=pie" />
     </td>
   </tr>
 </table>
